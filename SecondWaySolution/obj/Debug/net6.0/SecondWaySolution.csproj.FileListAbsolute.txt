@@ -1,0 +1,15 @@
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/finalVerificationWork/finalVerificationWork/SecondWaySolution/bin/Debug/net6.0/SecondWaySolution
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/finalVerificationWork/finalVerificationWork/SecondWaySolution/bin/Debug/net6.0/SecondWaySolution.deps.json
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/finalVerificationWork/finalVerificationWork/SecondWaySolution/bin/Debug/net6.0/SecondWaySolution.runtimeconfig.json
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/finalVerificationWork/finalVerificationWork/SecondWaySolution/bin/Debug/net6.0/SecondWaySolution.dll
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/finalVerificationWork/finalVerificationWork/SecondWaySolution/bin/Debug/net6.0/SecondWaySolution.pdb
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/finalVerificationWork/finalVerificationWork/SecondWaySolution/obj/Debug/net6.0/SecondWaySolution.csproj.AssemblyReference.cache
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/finalVerificationWork/finalVerificationWork/SecondWaySolution/obj/Debug/net6.0/SecondWaySolution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/finalVerificationWork/finalVerificationWork/SecondWaySolution/obj/Debug/net6.0/SecondWaySolution.AssemblyInfoInputs.cache
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/finalVerificationWork/finalVerificationWork/SecondWaySolution/obj/Debug/net6.0/SecondWaySolution.AssemblyInfo.cs
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/finalVerificationWork/finalVerificationWork/SecondWaySolution/obj/Debug/net6.0/SecondWaySolution.csproj.CoreCompileInputs.cache
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/finalVerificationWork/finalVerificationWork/SecondWaySolution/obj/Debug/net6.0/SecondWaySolution.dll
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/finalVerificationWork/finalVerificationWork/SecondWaySolution/obj/Debug/net6.0/refint/SecondWaySolution.dll
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/finalVerificationWork/finalVerificationWork/SecondWaySolution/obj/Debug/net6.0/SecondWaySolution.pdb
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/finalVerificationWork/finalVerificationWork/SecondWaySolution/obj/Debug/net6.0/SecondWaySolution.genruntimeconfig.cache
+/Users/antonsineev/Yandex.Disk.localized/Programming/GeekBrains/HomeWork/finalVerificationWork/finalVerificationWork/SecondWaySolution/obj/Debug/net6.0/ref/SecondWaySolution.dll
