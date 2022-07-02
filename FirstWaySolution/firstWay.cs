@@ -1,13 +1,19 @@
-﻿string[] arr = new string[]{"this", "is", "some", "text", "string", "and", "a", "ssh"}; 
-int answerArrLength = 0;
+﻿string[] arr = new string[] { "this", "is", "some", "text", "string", "and", "a", "ssh" };
 
-foreach (var word in arr)
+int CheckElementsLength(string[] array)
 {
-    if (word.Length <= 3)
+    int count = 0;
+    foreach (var word in array)
     {
-        answerArrLength += 1;
+        if (word.Length <= 3)
+        {
+            count += 1;
+        }
     }
+    return count;
 }
+
+int answerArrLength = CheckElementsLength(arr);
 
 string[] answerArr = new string[answerArrLength];
 int answerIndex = 0;
